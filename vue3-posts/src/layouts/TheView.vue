@@ -1,3 +1,4 @@
+<!-- 싱글파일화 적용 -->
 <template>
 	<main>
 		<div class="container py-4">

@@ -1,3 +1,4 @@
+<!-- 싱글파일화 적용 -->
 <template>
 	<header>
 		<nav class="navbar navbar-expand-sm navbar-dark bg-primary">
