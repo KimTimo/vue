@@ -1,10 +1,6 @@
-<script setup>
-import TheHeader from '@/layouts/TheHeader.vue';
-import TheView from '@/layouts/TheView.vue';
-</script>
+<script setup></script>
 <template>
-	<TheHeader></TheHeader>
-	<TheView></TheView>
+	<div>Hello Vue3</div>
 </template>
 
 <style scoped></style>
