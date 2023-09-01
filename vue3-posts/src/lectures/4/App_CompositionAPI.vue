@@ -20,7 +20,7 @@ export default {
 		};
 		// console.log('isRef(reactiveMessage): ', isRef(reactiveMessage));
 
-		let nomalMessage = 'Hello Nomal Message';
+		let nomalMessage = 'Hello Nomal Message!';
 		const addNormalMessage = () => {
 			nomalMessage = nomalMessage + '!';
 		};
