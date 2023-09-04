@@ -20,7 +20,7 @@
 		<div>
 			<input type="text" v-bind:disabled="isInputDisabled" />
 		</div>
-		<p>커밋템플릿 적용시키기</p>
+		<p>커밋템플릿 적용시키기!</p>
 	</div>
 </template>
 
