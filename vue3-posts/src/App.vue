@@ -8,7 +8,6 @@
 		<h2>v-html</h2>
 		<p>{{ rawHtml }}</p>
 		<p v-html="rawHtml"></p>
-		=======
 		<p>
 			{{ counter }}
 		</p>
