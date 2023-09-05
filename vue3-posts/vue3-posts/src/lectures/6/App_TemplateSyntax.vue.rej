@@ -1,0 +1,9 @@
+diff a/vue3-posts/src/lectures/6/App_TemplateSyntax.vue b/vue3-posts/src/lectures/6/App_TemplateSyntax.vue	(rejected hunks)
+@@ -13,7 +13,6 @@
+ 		<div title="안녕하세요.">마우스를 올려보세요</div>
+ 		<div :title="dynamicTitle">마우스를 올려보세요</div>
+ 		<input type="text" value="안꼬몽돌" v-bind:disabled="isInputDisabled" />
+-		<p>config user.email 변경 후 커밋 적용</p>
+ 		<input v-bind="attrs" />
+ 		<h2>JavaScript</h2>
+ 		{{ message.split('').reverse().join('') }}<br />
