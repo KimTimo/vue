@@ -12,8 +12,7 @@
 		<h2>속성 바인딩</h2>
 		<div title="안녕하세요.">마우스를 올려보세요</div>
 		<div :title="dynamicTitle">마우스를 올려보세요</div>
-		<input type="text" value="안꼬몽돌" v-bind:disabled="isInputDisabled" />
-		<p>config user.email 변경 후 커밋 적용</p>
+		<input type="text" value="안꼬비" v-bind:disabled="isInputDisabled" />
 		<input v-bind="attrs" />
 		<h2>JavaScript</h2>
 		{{ message.split('').reverse().join('') }}<br />
