@@ -13,7 +13,7 @@
 		<div title="안녕하세요.">마우스를 올려보세요</div>
 		<div :title="dynamicTitle">마우스를 올려보세요</div>
 		<input type="text" value="안꼬몽돌부기" v-bind:disabled="isInputDisabled" />
-		<p>config user.email 변경 후 커밋 적용</p>
+		<p>feature -> develop 으로 commit & push 테스트</p>
 		<input v-bind="attrs" />
 		<h2>JavaScript</h2>
 		{{ message.split('').reverse().join('') }}<br />
