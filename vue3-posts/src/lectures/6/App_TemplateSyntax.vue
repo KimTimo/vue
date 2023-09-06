@@ -13,7 +13,7 @@
 		<div title="안녕하세요.">마우스를 올려보세요</div>
 		<div :title="dynamicTitle">마우스를 올려보세요</div>
 		<input type="text" value="안꼬몽돌" v-bind:disabled="isInputDisabled" />
-		<p>feature -> develop 흐름 태우기</p>
+		<p>Pull Request 요청 테스트</p>
 		<input v-bind="attrs" />
 		<h2>JavaScript</h2>
 		{{ message.split('').reverse().join('') }}<br />
