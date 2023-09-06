@@ -27,7 +27,7 @@ import { ref } from 'vue';
 const message = ref('Hello Vue3');
 const rawHtml = ref('<strong>안녕하세요</strong>');
 
-const dynamicTitle = ref(`안녕하세요`);
+const dynamicTitle = ref(`안녕하세요!!`);
 const isInputDisabled = ref(true);
 const attrs = ref({
 	type: `text`,
