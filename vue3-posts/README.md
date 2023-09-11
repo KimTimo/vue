@@ -1,6 +1,6 @@
 # vue3-posts
 
-This template should help get you started developing with Vue 3 in Vite.
+점진적으로 TypeScript로 마이그레이션 예정
 
 ## Recommended IDE Setup
 
